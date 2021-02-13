@@ -1,6 +1,14 @@
-# movie
+# Moovy
 
-A new Flutter application.
+Movies Database Made with Flutter
+
+<img src="https://flutter.dev/images/flutter-logo-sharing.png" height="150" width="auto">
+
+## Screenshots
+<img src="screenshots/Movie home.png" height="450" width="auto"><img src="screenshots/Movie details.png" height="450" width="auto"><img src="screenshots/Tv show home.png" height="450" width="auto"> <img src="screenshots/Tvshow details.png" height="450" width="auto"><img src="screenshots/Seasons and cast.png" height="450" width="auto"><img src="screenshots/Episodes.png" height="450" width="auto">
+
+## Download Apk
+https://github.com/aadesh-hemwani/Movies-and-Tv-Shows-App/blob/master/apk/Moovy%201.0.0.apk?raw=true
 
 ## Getting Started
 
